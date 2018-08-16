@@ -1,0 +1,20 @@
+C:\Users\Priscilla\source\repos\Milhas-Metros\Milhas-Metros\bin\Debug\Milhas-Metros.exe.config
+C:\Users\Priscilla\source\repos\Milhas-Metros\Milhas-Metros\bin\Debug\Milhas-Metros.exe
+C:\Users\Priscilla\source\repos\Milhas-Metros\Milhas-Metros\bin\Debug\Milhas-Metros.pdb
+C:\Users\Priscilla\source\repos\Milhas-Metros\Milhas-Metros\obj\Debug\Milhas-Metros.csprojAssemblyReference.cache
+C:\Users\Priscilla\source\repos\Milhas-Metros\Milhas-Metros\obj\Debug\Milhas_Metros.frmPrincipal.resources
+C:\Users\Priscilla\source\repos\Milhas-Metros\Milhas-Metros\obj\Debug\Milhas_Metros.Properties.Resources.resources
+C:\Users\Priscilla\source\repos\Milhas-Metros\Milhas-Metros\obj\Debug\Milhas-Metros.csproj.GenerateResource.cache
+C:\Users\Priscilla\source\repos\Milhas-Metros\Milhas-Metros\obj\Debug\Milhas-Metros.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\source\repos\Milhas-Metros\Milhas-Metros\obj\Debug\Milhas-Metros.exe
+C:\Users\Priscilla\source\repos\Milhas-Metros\Milhas-Metros\obj\Debug\Milhas-Metros.pdb
+C:\Users\Priscilla\Desktop\Treino POO\7 Milhas-Metros\Milhas-Metros\bin\Debug\Milhas-Metros.exe.config
+C:\Users\Priscilla\Desktop\Treino POO\7 Milhas-Metros\Milhas-Metros\bin\Debug\Milhas-Metros.exe
+C:\Users\Priscilla\Desktop\Treino POO\7 Milhas-Metros\Milhas-Metros\bin\Debug\Milhas-Metros.pdb
+C:\Users\Priscilla\Desktop\Treino POO\7 Milhas-Metros\Milhas-Metros\obj\Debug\Milhas-Metros.csprojAssemblyReference.cache
+C:\Users\Priscilla\Desktop\Treino POO\7 Milhas-Metros\Milhas-Metros\obj\Debug\Milhas_Metros.frmPrincipal.resources
+C:\Users\Priscilla\Desktop\Treino POO\7 Milhas-Metros\Milhas-Metros\obj\Debug\Milhas_Metros.Properties.Resources.resources
+C:\Users\Priscilla\Desktop\Treino POO\7 Milhas-Metros\Milhas-Metros\obj\Debug\Milhas-Metros.csproj.GenerateResource.cache
+C:\Users\Priscilla\Desktop\Treino POO\7 Milhas-Metros\Milhas-Metros\obj\Debug\Milhas-Metros.csproj.CoreCompileInputs.cache
+C:\Users\Priscilla\Desktop\Treino POO\7 Milhas-Metros\Milhas-Metros\obj\Debug\Milhas-Metros.exe
+C:\Users\Priscilla\Desktop\Treino POO\7 Milhas-Metros\Milhas-Metros\obj\Debug\Milhas-Metros.pdb
